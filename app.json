@@ -11,7 +11,7 @@
     "repository": "https://github.com/zYxDevs/BinCheckerBot",
     "success_url": "https://t.me/SpreadNetworks",
     "env": {
-        "API_TOKEN": {
+        "API_TOKEN": { 7985710824:AAGAl5rWA14OCVNSfxgfkitzUxnX-SLy3-Q
             "description": "API Token , get it from @BotFather"
         },
         "START_MSG": {
